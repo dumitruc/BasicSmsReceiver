@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicSmsReceiver.iml" filepath="$PROJECT_DIR$/BasicSmsReceiver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smsreceiver/smsreceiver.iml" filepath="$PROJECT_DIR$/smsreceiver/smsreceiver.iml" />
+    </modules>
+  </component>
+</project>
+
